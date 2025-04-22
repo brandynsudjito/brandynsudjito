@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I'm Brandyn Sudjito, a passionate mobile and web developer from Toronto. <br>I'm currently studying Computer Science at Sheridan College.<br><br>👨‍💻 All of my projects are available at: [brandynsudjito.tech](https://brandynsudjito.tech)<br>💬 Questions? Send me an email [here](mailto:brandynsudjito1@gmail.com) <br>🌱 I’m always looking to expand my skills and become a stronger developer<br>⚡ Fun fact: I love robots and roguelikes
+Hey! I'm Brandyn Sudjito, a passionate mobile and web developer from Toronto. <br>I'm currently studying Computer Science at Sheridan College, with a specialization in mobile computing.<br><br>👨‍💻 All of my projects are available at: [brandynsudjito.tech](https://brandynsudjito.tech)<br>💬 Questions? Send me an email [here](mailto:brandynsudjito1@gmail.com) <br>🌱 I’m always looking to expand my skills and become a stronger developer<br>⚡ Fun fact: I love robots and roguelikes
 
 
 ## 🌐 Socials:
